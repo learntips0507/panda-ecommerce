@@ -2,3 +2,42 @@
     padding: 0;
     margin: 0;
 }
+.container{
+    padding-bottom: 100px;
+}
+.slide-bg{
+    background-color: #fceae8;
+    padding: 20px;
+    border-radius: 8px;
+}
+.price{
+    color:#ff0000;
+    font-weight: 600;
+}
+.buy-now{
+    background-image: linear-gradient(to right,#e43a15 0%, #e65245 51%, #e43a15 100%);
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.per-product-one, .per-product-two, .per-product-three{
+    padding: 20px;
+    border-radius: 10px;
+} 
+.per-product-one{
+    background-image: linear-gradient(to right, #FF8008 0%, #FFC837 51%, #FF8008 100%);
+}
+.per-product-two{
+    background-image: linear-gradient(to right, #e53935 0%, #e35d5b 51%, #e53935 100%);
+}
+.per-product-three{
+    background-image: linear-gradient(to right, #56CCF2 0%, #2F80ED 51%, #56CCF2 100%);
+}
+.product-item-one h1{
+    color: white;
+}
+.product-item-one img{
+    width: 120px;
+}
