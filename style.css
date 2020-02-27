@@ -41,3 +41,34 @@
 .product-item-one img{
     width: 120px;
 }
+.card{
+    border: none;
+    box-shadow: 8px 8px 10px lightgray;
+}
+.border{
+    background-image: linear-gradient(to right, #16A085 0%, #F4D03F 51%, #16A085 100%);
+    padding-bottom: 2px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.card-footer{
+    background: white;
+    border-top: none;
+}
+.subscribe-part{
+    background-color: #fceae8;
+}
+.subscribe-text-part{
+    padding-top: 7%;
+}
+.subscribe-part h1{
+    text-transform: uppercase;
+}
+.subscribe-part p{
+    color: gray;
+}
+footer p{
+    font-size: 11px;
+    text-align: center;
+    padding-top: 50px;
+}
